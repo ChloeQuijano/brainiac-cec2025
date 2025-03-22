@@ -1,0 +1,2 @@
+EN: https://docs.github.com/en/desktop/overview/getting-started-with-github-desktop
+FR: https://docs.github.com/fr/desktop/overview/getting-started-with-github-desktop

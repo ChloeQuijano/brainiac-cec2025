@@ -1,0 +1,4 @@
+.env
+venv/
+__pycache__/
+vit_mri_model_augmented_final.pth
