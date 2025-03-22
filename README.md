@@ -49,7 +49,7 @@ Team: MacDonald Bridge
 
 4. **Download model from the following link and place into project folder:**
 
-Note: need to have access permissions via email
+Note: need to have access permissions via email to download model
 
 [Google Drive link](https://drive.google.com/drive/folders/1RMO9VaVmPAmpuvj3_KWvFcfCKGfVryfz?usp=drive_link)
 
@@ -90,13 +90,13 @@ Note: need to have access permissions via email
 
 ## File Structure 
 
-`/train` : this folder contains visionTransformerModelFineTune.ipynb, this is the training steps we took to extract out best final finetuned model. 
+`/train` : this folder contains our model training notebook, this is the training steps we took to extract out best final finetuned model. 
 
-`/static` : contains /highlighted and /uploads, these are just static images for our front-end, the hightlighted images were passed through grad-cam to get heat map of the tumors .
+`/static` : contains /highlighted and /uploads and other images. The hightlighted images were passed through grad-cam to get heat map of the tumors.
 
-`/templates` : contin the index.html for our frontend structure.
+`/templates` : contain the index.html for our frontend structure.
 
-`app.py` : this is the back-end of our front-end
+`app.py` : this is the flask back-end
 
 `test.py` : this is our test file that returns the csv prediction the judges will use.
 
