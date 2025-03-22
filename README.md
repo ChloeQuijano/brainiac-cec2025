@@ -4,7 +4,7 @@
 
 Team: MacDonald Bridge
 
-![Brainiac Frontend](static/frontend_picture.png)
+![Brainiac](static/preview.png)
 
 ## Table of Contents
 
